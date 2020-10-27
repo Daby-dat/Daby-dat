@@ -1,4 +1,4 @@
-![portada readme github](https://user-images.githubusercontent.com/35778162/97118842-b4ff9200-16e2-11eb-9e72-ca1557a7c4f5.png)
+![Readme-Github](https://user-images.githubusercontent.com/35778162/97248128-71d31b00-17d7-11eb-9d70-c67dae3d9e01.png)
 
 <h3 align="center">I'm a passionate frontend developer from Caracas, Venezuela</h3>
 
